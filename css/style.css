@@ -32,7 +32,7 @@
     border: 1px solid black;
 }
 
-.score-box div {
+.score-box .box-name {
     padding: 1px;
     width: 60%;
     border-right: 1px solid black;
