@@ -1,0 +1,43 @@
+.score-card {
+    border: 2px solid black;
+    padding: 2px;
+    width: 200px;
+}
+
+.upper-section {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.lower-section {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.scoring {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.header {
+    padding: 1px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.score-box {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.score-box div {
+    padding: 1px;
+    width: 60%;
+    border-right: 1px solid black;
+}
+
+.score-box button {
+    flex: 1;
+}
